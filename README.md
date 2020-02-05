@@ -59,3 +59,7 @@ https://qiita.com/salvage0707/items/2713d062971d528ab211
 ` mysql -u root`
 `use ~~`
 `show tables`
+
+10. ローカルサーバーが開けるか確認
+`python manage.py runserver`
+
